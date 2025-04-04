@@ -69,7 +69,6 @@ function sin(input1){
 
 }
 
-
 function cos(input1){
 
     return Math.cos(input1*rad_converter)
@@ -77,7 +76,7 @@ function cos(input1){
 }
 
 function tan(input1){
-    
+
     return Math.tan(input1*rad_converter)
     
 }
